@@ -1,0 +1,72 @@
+.CV {
+  margin: 50px;;
+  font-size: 18px;
+
+}
+
+h2 {
+  padding-left: 10%;
+  border-bottom: 2px solid black;
+  border-bottom-right-radius: 5px;
+  margin-bottom: 50px;
+}
+.coord {
+  margin-top: 35px;
+  float : left;
+  margin-left: 100px;
+  margin-bottom: 80px;
+}
+.photo {
+  float : right;
+  margin-bottom: 50px;
+
+}
+
+.photo img {
+  border-radius: 10px;
+  border : 1px solid black;
+}
+.formation {
+  float: left;
+  width: 100%;
+}
+
+.forml {
+ float: left;
+ text-align: justify;
+ padding-left: 10px;
+ padding-right: 15px;
+ border-left: 1px solid black;
+ font-weight: bold;
+}
+.formr {
+ float: right;
+ text-align: justify;
+}
+.exprof {
+  float : left;
+  width: 100%;
+}
+
+.exprofl {
+  float: left;
+  text-align: justify;
+  padding-right: 3%;
+  border-right : 1px solid black;
+}
+
+.exprofr {
+  float: right;
+  text-align: left;
+  padding-right: 40%;
+}
+.centre {
+  float : left;
+  width: 100%;
+
+}
+
+.contact {
+  float : left;
+  width: 100%;
+}
